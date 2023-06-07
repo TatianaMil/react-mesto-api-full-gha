@@ -47,7 +47,6 @@ class Auth {
 
 const auth = new Auth({
   baseUrl: "https://api.milinova.nomoredomains.rocks",
- // baseUrl: "http://localhost:3000",
   headers: {
     "Content-Type": "application/json",
    

@@ -97,7 +97,6 @@ class Api {
 //connect api
 const api = new Api({
    baseUrl: "https://api.milinova.nomoredomains.rocks",
-  //baseUrl: "http://localhost:3000",
   headers: {
     "Content-Type": "application/json",
     authorization: `Bearer ${localStorage.getItem("token")}`,
