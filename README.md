@@ -8,7 +8,7 @@
 Адрес репозитория: https://tatianamil.github.io/react-mesto-api-full-gha/
 ## Ссылки на проект
 
-IP-адрес 158.160.109.209
+IP 158.160.109.209
 
 Frontend https://milinova.nomoredomains.rocks
 
