@@ -5,12 +5,11 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://tatianamil.github.io/react-mesto-api-full-gha/
-
+<!-- Адрес репозитория: https://tatianamil.github.io/react-mesto-api-full-gha/ -->
 ## Ссылки на проект
 
-IP-адрес 158.160.109.209
+<!-- IP-адрес 158.160.109.209 -->
 
-Frontend https://milinova.nomoredomains.rocks
+<!-- Frontend https://milinova.nomoredomains.rocks -->
 
-Backend https://api.milinova.nomoredomains.rocks
+<!-- Backend https://api.milinova.nomoredomains.rocks -->
