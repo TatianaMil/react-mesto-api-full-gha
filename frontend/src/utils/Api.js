@@ -100,7 +100,7 @@ class Api {
     return this._handleResponse(response);
   }
 
-  //avatar update
+  //avatar update avatar
   async updateProfileUserAvatar(data) {
     const response = await fetch(`${this._baseUrl}/users/me/avatar`, {
       method: "PATCH",
