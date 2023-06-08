@@ -50,20 +50,6 @@ function App() {
     }
   }, [loggedIn, navigate]);
 
-  //данные карточек и регистрации
-  /*useEffect(() => {
-    setIsLoading(true)
-    tokenCheck()
-    if (loggedIn) {
-      Promise.all([api.getRealUserInfo(), api.getInitialCards()])
-        .then(([userRes, cards]) => {
-          setCurrentUser(userRes)
-          setCards(cards.data.reverse())
-        })
-        .catch((err) => console.log(err))
-    }
-  }, [loggedIn, tokenCheck])*/
-
   useEffect(() => {
     tokenCheck();
     loggedIn &&
