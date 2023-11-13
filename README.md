@@ -11,3 +11,5 @@ IP 158.160.109.209
 Frontend https://milinova.nomoredomains.rocks
 
 Backend https://api.milinova.nomoredomains.rocks
+
+Проект завершен полностью
